@@ -114,7 +114,7 @@ This project provides matching icon themes so LibreOffice visually integrates wi
 Ernst Lanser
 
 Forum thread:
-- [LibreOffice Yaru Theme for Raspberry Pi OS Trixie (Debian 13)](https://forums.raspberrypi.com/viewtopic.php?t=393058&utm_source=chatgpt.com#p2344404)
+- [LibreOffice Yaru Theme for Raspberry Pi OS Trixie (Debian 13)](https://forums.raspberrypi.com/viewtopic.php?t=393058#p2344404)
 - [GUIDE: Install GNOME on Raspberry Pi OS Lite](https://forums.raspberrypi.com/viewtopic.php?t=373028#p2233233)
 ---
 
